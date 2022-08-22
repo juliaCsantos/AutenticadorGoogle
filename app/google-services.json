@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440416069583",
+    "project_id": "autenticador-d2ddb",
+    "storage_bucket": "autenticador-d2ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440416069583:android:f7777b7b67833f2584d4ba",
+        "android_client_info": {
+          "package_name": "com.example.autenticadorgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440416069583-8haubbhfj56ji4ov4lno0qclcnkkpl54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy7LGk7TtCiSfULddMpWS3hY1RxkX2NoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440416069583-8haubbhfj56ji4ov4lno0qclcnkkpl54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
